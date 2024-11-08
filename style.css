@@ -1,0 +1,22 @@
+div:nth-child(8){
+    background: red;
+}
+
+div:nth-child(2){
+    background: rgb(0, 255, 21);
+}
+
+:nth-child(4){
+    background: blue;
+}
+
+:nth-child(9){
+    background: black;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.pseudo-three-part:nth-child(6){
+    background: purple;
+}
